@@ -1,6 +1,8 @@
 # Object-Detection-using-YOLOv3
 
+-----
 
+## YOLOV3 Architecture
 ![image](https://user-images.githubusercontent.com/58909032/99224594-f7237b80-2829-11eb-8b53-45161737e5ff.png)
 
 

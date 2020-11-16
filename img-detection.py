@@ -68,7 +68,7 @@ if __name__ == '__main__':
             cv2.putText(img, label, (x, y - 10), font, 1, color, 2)
             print(label, confidences[i], x, y, w, h)
 
-    img=cv2.resize(img, (1024, 768), interpolation=cv2.INTER_LINEAR)
+    #img=cv2.resize(img, (1024, 768), interpolation=cv2.INTER_LINEAR)
 
     cv2.imshow("Image", img)
     cv2.waitKey(0)

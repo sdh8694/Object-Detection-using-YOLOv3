@@ -23,8 +23,4 @@ YOLOv3의 기본 구조는 아래과 같다. (Darknet-53)
 </div>
 
 
-![test6](https://user-images.githubusercontent.com/58909032/99224665-1a4e2b00-282a-11eb-9e52-961cbc9681c3.jpg)
-
-
-![result](https://user-images.githubusercontent.com/58909032/99222296-9abe5d00-2825-11eb-90b2-011c570723f2.png)
 

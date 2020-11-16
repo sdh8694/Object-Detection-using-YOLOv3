@@ -1,6 +1,12 @@
 # Object-Detection-using-YOLOv3
 
 
+![image](https://user-images.githubusercontent.com/58909032/99224594-f7237b80-2829-11eb-8b53-45161737e5ff.png)
+
+
+![image](https://user-images.githubusercontent.com/58909032/99224574-ebd05000-2829-11eb-9f64-4179109373f2.png)
+
+
 ![test5](https://user-images.githubusercontent.com/58909032/99224663-18846780-282a-11eb-86c4-a086cbcd80e1.jpg)
 
 
@@ -11,10 +17,4 @@
 
 
 ![result](https://user-images.githubusercontent.com/58909032/99222296-9abe5d00-2825-11eb-90b2-011c570723f2.png)
-
-
-![image](https://user-images.githubusercontent.com/58909032/99224594-f7237b80-2829-11eb-8b53-45161737e5ff.png)
-
-
-![image](https://user-images.githubusercontent.com/58909032/99224574-ebd05000-2829-11eb-9f64-4179109373f2.png)
 

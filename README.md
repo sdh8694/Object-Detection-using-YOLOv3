@@ -17,6 +17,12 @@ YOLOv3의 기본 구조는 아래과 같다. (Darknet-53)
 - loss fucntion으로는 multi-class classification에서 사용하는 loss함수 대신 binary cross entropy loss를 사용한다.
 
 
+## Data
+COCO 데이터셋을 사용하며, class의 갯수는 80개이다.
+
+## Download
+공식홈페이지(https://pjreddie.com/darknet/yolo/) 를 통하여 cfg와 weights 다운받을수 있다.
+
 ## Detected image
 <div display="inline-block">
 <center>
@@ -31,5 +37,7 @@ YOLOv3의 기본 구조는 아래과 같다. (Darknet-53)
 <img src="https://user-images.githubusercontent.com/58909032/99222296-9abe5d00-2825-11eb-90b2-011c570723f2.png" display="inline-block" ></img>
 </center>
 </div>
+
+
 
 

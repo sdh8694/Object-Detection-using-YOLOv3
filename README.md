@@ -18,10 +18,14 @@ YOLOv3의 기본 구조는 아래과 같다. (Darknet-53)
 
 
 ## Data
-COCO 데이터셋을 사용하며, class의 갯수는 80개이다.
+![image](https://user-images.githubusercontent.com/58909032/99228795-76b44900-2830-11eb-87c8-f509aaf70022.png)
+
+Class의 갯수는 80개이다.
+
 
 ## Download
 공식홈페이지(https://pjreddie.com/darknet/yolo/) 를 통하여 cfg와 weights 다운받을수 있다.
+
 
 ## Detected image
 <div display="inline-block">

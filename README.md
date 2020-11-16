@@ -13,7 +13,7 @@ YOLOv3의 기본 구조는 아래과 같다. (Darknet-53)
 - Box별 multi-label classification을 사용하여 바운딩 박스가 포함할 수 있는 Class를 예측한다.
 - class predicition : softmax를 대신하여 logistic classifier로 대체하였다.
 
--> logistic classifier로는 Sigmoid,ReLU,Tanh등이 있다.
+  -> logistic classifier로는 Sigmoid,ReLU,Tanh등이 있다.
 - loss fucntion으로는 multi-class classification에서 사용하는 loss함수 대신 binary cross entropy loss를 사용한다.
 
 
